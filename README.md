@@ -1,16 +1,19 @@
-## Hi there 👋
+### Hello, World! Eu sou Alice Marques 👋
 
-<!--
-**alicemarquesdev/alicemarquesdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Estudante de Ciências da Computação**  
+💻 Atualmente focada no universo **.NET (C#)**  
+🚀 Buscando oportunidades para aprender e crescer no desenvolvimento de software.  
 
-Here are some ideas to get you started:
+#### Tecnologias e Ferramentas  
+🎨 **Frontend:** HTML, CSS  
+💻 **Linguagem:** C#  
+🌐 **Frameworks:** ASP.NET Core  
+🛢️ **Banco de Dados:** SQL Server, MongoDB  
+📦 **ORM:** Entity Framework Core  
+🔧 **Ferramentas:** GitHub, Azure DevOps, Visual Studio  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Entre em contato
+
+🔗 [**LinkedIn**](https://linkedin.com/in/alicemarquesdev)  
+📧 [**E-mail**](mailto:alicemarques.dev@hotmail.com)  
+🌐 [**Portfólio**](#) 
