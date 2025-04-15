@@ -1,8 +1,8 @@
-### Hello, World! Eu sou Alice Marques 👋
+## Hello, World! Eu sou Alice Marques 👋
 
 🎓 **Estudante de Ciências da Computação com foco em desenvolvimento .NET.**  
 
-#### Tecnologias e Ferramentas  
+### Tecnologias e Ferramentas  
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white) |
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat&logo=dotnet&logoColor=white) |
 ![Entity Framework](https://img.shields.io/badge/Entity_Framework-68217A?style=flat&logo=dotnet&logoColor=white) |
@@ -15,7 +15,7 @@
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white) |
 ![REST API](https://img.shields.io/badge/APIs_REST-FF6F00?style=flat&logo=api&logoColor=white) 
 
-#### Projetos
+### Projetos
 
 🌍  [TravelShare](https://travelshare-fdajbpaygsbhd8bf.brazilsouth-01.azurewebsites.net/): Uma rede social para compartilhar viagens e destinos. Utiliza ASP.NET Core, MongoDB e integrações com mapas interativos. - [Código no GitHub](https://github.com/alicemarquesdev/TravelShare)
 
@@ -23,7 +23,7 @@
 
 🗣️ [Master Idiomas](https://masteridiomas-e5b0dve7cderhqec.brazilsouth-01.azurewebsites.net/): Plataforma de gestão de cursos com painel administrativo.  - [Código no GitHub](https://github.com/alicemarquesdev/MasterIdiomas)
 
-#### Entre em contato
+### Entre em contato
 
 ![LinkedIn](https://img.shields.io/badge/In-0A66C2?style=flat&logo=linkedin&logoColor=white)
  [**LinkedIn**](https://linkedin.com/in/alicemarquesdev)  
