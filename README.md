@@ -1,6 +1,6 @@
 ## Hello, World! Eu sou Alice Marques 👋
 
-🎓 **Estudante de Ciências da Computação com foco em desenvolvimento .NET.**  
+🎓 **Estudante de Ciência da Computação com foco em desenvolvimento .NET.**  
 
 ### Tecnologias e Ferramentas  
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white) |
