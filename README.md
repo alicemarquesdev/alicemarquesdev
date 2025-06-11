@@ -17,11 +17,11 @@
 
 ### Projetos
 
-🌍  [TravelShare](https://travelshare-fdajbpaygsbhd8bf.brazilsouth-01.azurewebsites.net/): Uma rede social para compartilhar viagens e destinos. Utiliza ASP.NET Core, MongoDB e integrações com mapas interativos. - [Código no GitHub](https://github.com/alicemarquesdev/TravelShare)
+🌍  [TravelShare](https://github.com/alicemarquesdev/TravelShare): Uma rede social para compartilhar viagens e destinos. Utiliza ASP.NET Core, MongoDB e integrações com mapas interativos.
 
-🛒 [Digital Store](https://digitalstore-g0b6gvhba2g4fkcu.brazilsouth-01.azurewebsites.net/):  Uma loja online simples com funcionalidades de CRUD de produtos e pagamento integrado. Feito com ASP.NET Core e SQL Server. - [Código no GitHub](https://github.com/alicemarquesdev/DigitalStore)
+🛒 [Digital Store](https://github.com/alicemarquesdev/DigitalStore):  Uma loja online simples com funcionalidades de CRUD de produtos e pagamento integrado. Feito com ASP.NET Core e SQL Server.
 
-🗣️ [Master Idiomas](https://masteridiomas-e5b0dve7cderhqec.brazilsouth-01.azurewebsites.net/): Plataforma de gestão de cursos com painel administrativo.  - [Código no GitHub](https://github.com/alicemarquesdev/MasterIdiomas)
+🗣️ [Master Idiomas](https://github.com/alicemarquesdev/MasterIdiomas): Plataforma de gestão de cursos com painel administrativo.
 
 ### Entre em contato
 
