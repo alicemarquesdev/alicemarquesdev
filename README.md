@@ -15,16 +15,7 @@
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white) |
 ![REST API](https://img.shields.io/badge/APIs_REST-FF6F00?style=flat&logo=api&logoColor=white) 
 
-### Projetos
-
-🌍  [TravelShare](https://github.com/alicemarquesdev/TravelShare): Uma rede social para compartilhar viagens e destinos. Utiliza ASP.NET Core, MongoDB e integrações com mapas interativos.
-
-🛒 [Digital Store](https://github.com/alicemarquesdev/DigitalStore):  Uma loja online simples com funcionalidades de CRUD de produtos e pagamento integrado. Feito com ASP.NET Core e SQL Server.
-
-🗣️ [Master Idiomas](https://github.com/alicemarquesdev/MasterIdiomas): Plataforma de gestão de cursos com painel administrativo.
-
 ### Entre em contato
 
 🔗[**LinkedIn**](https://linkedin.com/in/alicemarquesdev)  |
- 📧 [**E-mail**](mailto:alicemarques.dev@hotmail.com)  |
-🌐 [**Portfólio**](https://alicemarquesdev.github.io/portfolio-AM/) 
+ 📧 [**E-mail**](mailto:alicemarques.dev@hotmail.com) 
